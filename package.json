@@ -1,0 +1,18 @@
+{
+  "name": "grunt",
+  "version": "0.0.1",
+  "description": "grunt demo",
+  "main": "index.html",
+  "dependencies": {
+    "grunt-responsive-images": "^0.1.6",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-resize-crop": "0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gowoon Lee",
+  "license": "ISC"
+}

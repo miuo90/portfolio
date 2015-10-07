@@ -1,0 +1,6 @@
+@media screen and (min-width: 500px) and (max-width: 992px) {
+	h3, p {
+		text-align: right;
+	}
+
+}
